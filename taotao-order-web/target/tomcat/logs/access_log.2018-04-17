@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:10 +0800] "GET /order/order-cart.html HTTP/1.1" 200 28909 http-bio-8091-exec-1 3128
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:10 +0800] "GET /images/purchase-icon.png HTTP/1.1" 200 658 http-bio-8091-exec-2 128
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:17 +0800] "POST /order/create.html HTTP/1.1" 200 7369 http-bio-8091-exec-3 1012
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:17 +0800] "GET /js/base-2011.js HTTP/1.1" 200 29063 http-bio-8091-exec-6 15
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:17 +0800] "GET /css/purchase.base.2012.css HTTP/1.1" 200 13339 http-bio-8091-exec-4 45
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:17 +0800] "GET /css/purchase.sop.css HTTP/1.1" 200 9885 http-bio-8091-exec-5 43
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:17 +0800] "GET /js/jquery.cookie.js HTTP/1.1" 200 3121 http-bio-8091-exec-7 62
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:17 +0800] "GET /images/icon48.png HTTP/1.1" 200 391 http-bio-8091-exec-10 55
+0:0:0:0:0:0:0:1 - - [17/Apr/2018:16:19:17 +0800] "GET /images/flow.gif HTTP/1.1" 200 818 http-bio-8091-exec-1 82
