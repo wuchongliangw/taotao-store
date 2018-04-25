@@ -1,0 +1,41 @@
+10
+
+dir
+21
+https://wcl/svn/taotao/trunk/taotao-manager/taotao-manager-service/src/main/java/com/taotao
+https://wcl/svn/taotao
+
+
+
+2018-04-13T09:06:40.647715Z
+21
+admin
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+194257d3-382d-0347-94e1-c99712225d9e
+
+
+
+
+
+
+0
+
+jedis
+dir
+
+service
+dir
+
