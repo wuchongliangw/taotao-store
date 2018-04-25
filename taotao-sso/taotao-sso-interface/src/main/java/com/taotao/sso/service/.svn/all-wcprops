@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/taotao/!svn/ver/57/trunk/taotao-sso/taotao-sso-interface/src/main/java/com/taotao/sso/service
+END
+UserLoginService.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/taotao/!svn/ver/57/trunk/taotao-sso/taotao-sso-interface/src/main/java/com/taotao/sso/service/UserLoginService.java
+END
+UserRegisterService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/taotao/!svn/ver/57/trunk/taotao-sso/taotao-sso-interface/src/main/java/com/taotao/sso/service/UserRegisterService.java
+END
